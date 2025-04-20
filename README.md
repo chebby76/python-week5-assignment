@@ -29,8 +29,7 @@ This project is a programming exercise that involves creating custom classes to 
 ### Activity 2: Polymorphism Challenge
 1. Design a base class `Entity` with a placeholder method `move()`.
 2. Create subclasses like:
-    - `Car`: Defines `move()` as "Driving 🚗".
-    - `Plane`: Defines `move()` as "Flying ✈️".
+    
     - `Dog`: Defines `move()` as "Running 🐕".
     - `Snake`: Defines `move()` as "Slithering 🐍".
 3. Showcase polymorphism by calling `move()` on different objects.
